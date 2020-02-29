@@ -1,0 +1,1 @@
+g++ --std=c++11 ../src/cmd.cpp ../src/logic.h ../src/ColorTypes.h ../src/MonochromeImage.h ../src/MonochromeImage.cpp ../src/ImageModifiers.h ../src/ImageModifiers.cpp -I/usr/local/include/irrlicht -lIrrlicht -Wfatal-errors -o ../bin/cmd.out
